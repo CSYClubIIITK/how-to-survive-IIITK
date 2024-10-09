@@ -1,8 +1,10 @@
 ---
-description: Author - Ansh (and chatGPT)
+description: Welcome to How to Survive IIITK — Hacktoberfest Edition! 🎉
 ---
 
-# Welcome to How to Survive IIITK — Hacktoberfest Edition! 🎉
+# How to Survive IIITK
+
+`Author - Ansh (and chatGPT)`
 
 Hello there, weary traveler or adventurous freshman! 🧭
 
