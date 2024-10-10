@@ -20,7 +20,6 @@
 * [\[B\] Surviving IIITK - Food Edition](food/food.md)
 * [\[R\] Kottayam](food/kottayam.md)
 * [\[R\] Pala](food/pala.md)
-* [\[R\] Campus Food](food/campus-food.md)
 
 ## Sports
 
