@@ -1,26 +1,34 @@
 # Table of contents
 
 * [How to Survive IIITK](README.md)
+* [Contributing?](how-to-contribute.md)
 
 ## Freshers Starter kit
 
-* [fresher starter kit](<fresher starter kit/README.md>)
+* [How to reach IIITK](<fresher starter kit/README.md>)
+
 ## Acads
-* [academics](academics/README.md)
+
+* [Tips for Mid - Sems](academics/README.md)
 
 ## Tech
+
 * [Tech](tech/README.md)
 
 ## Food
-* [Food Edition](food/README.md)
-  * [kottayam](food/kottayam/README.md)
-  * [pala](food/pala/README.md)
+
+* [\[B\] Surviving IIITK - Food Edition](food/food.md)
+* [\[R\] Kottayam](food/kottayam.md)
+* [\[R\] Pala](food/pala.md)
 
 ## Sports
+
 * [sports](sports/README.md)
 
 ## Travel
+
 * [Travel](travel/README.md)
 
 ## Misc
+
 * [misc](misc/README.md)
