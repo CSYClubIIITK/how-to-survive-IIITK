@@ -2,9 +2,9 @@
 description: Q&A style with a pinch of sarcasm and an extra helping of struggle
 ---
 
-# Food Edition
+# \[B] Surviving IIITK - Food Edition
 
-`Author - bavi404`
+`Author -` [`Bavishya`](https://github.com/bavi404)
 
 #### Q: What’s the best way to survive on a budget in college?
 

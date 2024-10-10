@@ -9,7 +9,7 @@
 
 ## Acads
 
-* [Tips for Mid - Sems](academics/README.md)
+* [Tips for Mid Sems](acads/tips-for-mid-sems.md)
 
 ## Tech
 
@@ -23,12 +23,22 @@
 
 ## Sports
 
-* [sports](sports/README.md)
+* [Badminton](sports/badminton.md)
+* [Cricket](sports/cricket.md)
+* [Football](sports/football.md)
 
 ## Travel
 
-* [Travel](travel/README.md)
+* [Kochi](travel/kochi.md)
+* [Varkala](travel/varkala.md)
+* [Trivandrum](travel/trivandrum.md)
+* [Munnar](travel/munnar.md)
+* [Vagamon](travel/vagamon.md)
+
+## Interns & Placements
+
+* [Placement Advice](interns-and-placements/placement-advice.md)
 
 ## Misc
 
-* [misc](misc/README.md)
+* [Misc](misc/README.md)
