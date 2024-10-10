@@ -2,7 +2,7 @@
 
 Hello there, weary traveler or adventurous freshman! 🧭
 
-Welcome to **How to Survive IIITK**, the ultimate guide to thriving (or at least surviving) life at IIIT Kottayam! Whether you're a battle-worn senior with some wisdom to impart, or a first-year student still trying to figure out which side of the campus has the best WiFi signal, this is the project for YOU.
+Welcome to **[How to Survive IIITK](https://csyclub-iiitk.gitbook.io/htsiiitk)**, the ultimate guide to thriving (or at least surviving) life at IIIT Kottayam! Whether you're a battle-worn senior with some wisdom to impart, or a first-year student still trying to figure out which side of the campus has the best WiFi signal, this is the project for YOU.
 
 **What is this all about?**
 
