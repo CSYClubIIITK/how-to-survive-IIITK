@@ -37,7 +37,8 @@
 * [Vagamon](travel/vagamon.md)
 
 ## Interns & Placements
-* [Placement Advice](intern&placements/placement-advice.md)
+
+* [Placement Advice](interns-and-placements/placement-advice.md)
 
 ## Misc
 
