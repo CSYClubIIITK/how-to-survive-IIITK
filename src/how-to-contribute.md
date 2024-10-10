@@ -10,10 +10,6 @@ Here’s how to get started:
 
 First, fork the repository and clone it to your local machine:
 
-{% hint style="info" %}
-Note: Make sure you **uncheck** "Copy the main branch only". Make any changes in the `PRhere` branch only.&#x20;
-{% endhint %}
-
 
 
 
@@ -91,15 +87,10 @@ git commit -m "Added blog on <artice topic>"
 2. **Push** your changes to your fork:
 
 ```bash
-git push origin PRhere
+git push origin main
 ```
 
 3. Open a Pull Request from your forked repo on GitHub. Make sure to include a brief description of your article in the PR.
-
-{% hint style="info" %}
-Note: Create a Pull Request for the `PRhere` branch only. **Do not** create PR for `main` branch.
-{% endhint %}
-
 
 
 ***
