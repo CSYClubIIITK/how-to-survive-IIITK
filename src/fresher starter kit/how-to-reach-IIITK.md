@@ -8,9 +8,9 @@ description: Help! How do I reach the college?
 
 Before we understand how to reach our college, let's first take a bird's eye view of our college:
 
-<img src="map.png" alt="map1" width="700" height="500">
+<img src="https://github.com/CSYClubIIITK/how-to-survive-IIITK/blob/84421b7881e9924708dd1c94aa69f3da01bab070/src/fresher%20starter%20kit/map.png" alt="map1" width="700" height="500">
 
-<img src="map2.png" alt="map2" width="500" height="500">
+<img src="https://github.com/CSYClubIIITK/how-to-survive-IIITK/blob/84421b7881e9924708dd1c94aa69f3da01bab070/src/fresher%20starter%20kit/map2.png" alt="map2" width="500" height="500">
 
 I've also highlighted the imporant places around our college. Your travel for the next 4 years will mostly revolve around these 5 places. There's one other place that's missing from the map that I've marked using a red dot and that's Nechipuzhoor.
 
