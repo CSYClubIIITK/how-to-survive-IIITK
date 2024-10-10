@@ -33,6 +33,8 @@ cd how-to-survive-iiitk
 ```md
 # Title of Your Article
 
+`Author - <your-name>`
+
 ## Introduction
 Start with a brief intro to your topic. Hook the reader in!
 
