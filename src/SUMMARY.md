@@ -5,7 +5,7 @@
 
 ## Freshers Starter kit
 
-* [How to reach IIITK](<fresher starter kit/README.md>)
+* [How to reach IIITK](<fresher starter kit/how-to-reach-IIITK.md>)
 
 ## Acads
 
