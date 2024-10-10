@@ -1,17 +1,22 @@
+# Title of Your Article
+
+`Author - <your-name>`
+
+## Introduction
+Start with a brief intro to your topic. Hook the reader in!
+
+## Main Content
+Break your content into sections with headings, subheadings, and bullet points if needed.
+
+You can use:
+- Lists
+- Tips
+- Examples
+- Code snippets (for tech-related topics)
+- Images (if relevant, but try to keep things lightweight)
+
+## Conclusion
+Wrap it up with a conclusion or takeaway message.
+
 ---
-description: Description here...
----
-
-# Title
-
-`Author - [your name](https://github.com/)`
-
-Write text in Markdown format.
-
-### Heading 3 (H3) - Use for headings in the article
-
-* Bullet point 1
-* Bullet point 2
-* Bullet point 3
-
-Use Markdown to format the document appropriately. If confused, checkout the other already existing articles.
+*Happy surviving at IIITK!* 🎉

@@ -36,6 +36,9 @@
 * [Munnar](travel/munnar.md)
 * [Vagamon](travel/vagamon.md)
 
+## Interns & Placements
+* [Placement Advice](intern&placements/placement-advice.md)
+
 ## Misc
 
-* [misc](misc/README.md)
+* [Misc](misc/README.md)
