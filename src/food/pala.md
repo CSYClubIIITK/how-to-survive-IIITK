@@ -1,1 +1,1 @@
-food in pala
+TODO: add food reviews of popular hotels in pala
