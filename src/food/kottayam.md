@@ -1,1 +1,1 @@
-food in ktym
+TODO: add food reviews of popular hotels in kottayam
