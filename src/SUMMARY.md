@@ -20,6 +20,7 @@
 * [\[B\] Surviving IIITK - Food Edition](food/food.md)
 * [\[R\] Kottayam](food/kottayam.md)
 * [\[R\] Pala](food/pala.md)
+* [\[B\] Migloo](food/migloo.md)
 
 ## Sports
 
