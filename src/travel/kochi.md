@@ -1,5 +1,7 @@
 # **Things to Do in Cochin: A (Very) Honest Guide** 🌴
 
+`Author - Bavishya`
+
 Ah, Cochin. Or Kochi. Or Cochin (I'm still not sure). If you're planning a visit to this spicy little slice of Kerala, buckle up because, oh boy, this city is a wild ride. And by wild, I mean laid-back. Imagine sipping coconut water on the beach, and you suddenly hit the edge of attaining enlightenment before a honking tuk-tuk ruins the moment. That is Cochin in a nutshell: a cultural smoothie that hits you with flavors of history, nature, and the occasional existential crisis. If you ever catch yourself wriggling into the question, "What in tarnation am I supposed to do in Cochin?", don’t worry.
 
 ---
